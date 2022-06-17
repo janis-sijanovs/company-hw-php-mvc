@@ -1,10 +1,10 @@
-# Magebit Task 3
+# Company Task 3
 
 Older Project
 
-Magebit Web Developer Test Task 3
+Web Developer Test Task 3
 
-This is task 3 of [Magebit Web Developer Test](Web%20Developer%20Test%20-%202021.pdf)
+This is task 3 of [Web Developer Test](Web%20Developer%20Test%20-%202021.pdf)
 
 To run the project:
 
